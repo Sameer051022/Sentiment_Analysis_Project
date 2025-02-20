@@ -1,0 +1,21 @@
+Review ID,Review,Sentiment
+1,"""Absolutely loved the product! The quality is superb, and it arrived in perfect condition. Worth every penny! https://greatreviews.com""""",Positive
+2,"""Terrible customer service! I tried to reach out multiple times, but no response. Very disappointed.""",Negative
+3,"""It was okay. Nothing too special about it, but it does what it’s supposed to.""",Neutral
+4,"""The app is super user-friendly, and the features are fantastic! Highly recommend it to anyone. Best $50 spent!""",Positive
+5,"""Product broke after just one use. Extremely poor quality for the price. 0/10 for me.""",Negative
+6,"""Shipping was fast, but the item is just average. Not bad, but wouldn’t buy it again either.""",Neutral
+7,"""The purchase experience was smooth, and the product exceeded my expectations! Great job, team!""",Positive
+8,"""Received the wrong item, and now I have to go through a return process. Not happy with this at all.""",Negative
+9,"""The website is easy to navigate, and the checkout was quick. Decent experience overall.""",Neutral
+10,"""Incredible results! I’ve been using it daily, and it’s made a noticeable difference. Highly satisfied!""",Positive
+11,"""Poor packaging, and the item looked used. Wouldn’t recommend buying from this seller.""",Negative
+12,"""It’s functional and works as expected. Nothing remarkable but does the job.""",Neutral
+13,"""I am beyond impressed with the battery life and performance! Definitely worth buying!""",Positive
+14,"""Received defective parts and now stuck dealing with customer support... waste of money.""",Negative
+15,"""The product arrived on time and was as advertised. No complaints, just standard.""",Neutral
+16,"""Exceeded my expectations! The color, design, and functionality are all top-notch!""",Positive
+17,"""Waste of money! The description was misleading, and it doesn’t work as it should.""",Negative
+18,"""It’s fine for the price. Not outstanding, but it does what I need it to.""",Neutral
+19,"""Love it! Great value for the price, and the quality is exceptional. Will be purchasing again!""",Positive
+20,"""Underwhelming experience. The app crashes often, and the features are not as promised.""",Negative
